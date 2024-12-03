@@ -37,7 +37,7 @@ A modern, responsive portfolio website built with React.js and Tailwind CSS, sho
 
 ## 📱 Live Demo
 
-[Visit Website](https://your-portfolio-url.com)
+[Visit Website](https://sameerbin-taher.netlify.app)
 
 ## 🖥 Local Development
 
@@ -65,13 +65,9 @@ A modern, responsive portfolio website built with React.js and Tailwind CSS, sho
    npm run build
    ```
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 📞 Contact
 
-- Email: obaidullah.bintaher@example.com
+- Email: sameerbintaher@gmail.com
 - LinkedIn: [Md Obaidullah Bin Taher](https://linkedin.com/in/sameerbintaher)
 - GitHub: [@sameerbintaher](https://github.com/sameerbintaher)
 
